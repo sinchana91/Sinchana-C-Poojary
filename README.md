@@ -4,7 +4,7 @@ Backend ninja by day, coding enthusiast by night. Always hungry for new challeng
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinchana-c-poojary-827113253/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/your_username/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/si.nchana7721/)
 
 
 # 💻 Tech Stack:
